@@ -1,6 +1,6 @@
 ####  <b><i>Saakshi Patel (801361041)</b></i>
 
-# ITCS 6112 Programming Project 1: Lempel-Ziv-Welch (LZW) Compression
+# ITCS 6114 Programming Project 1: Lempel-Ziv-Welch (LZW) Compression
 
 ## PROGRAM DESIGN
 
